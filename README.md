@@ -1,11 +1,13 @@
 # OptionGreeksVisualized
+### Introduction:
 Graphs quantities representing the sensitivity of the price of options to a change in underlying parameters on which the value of an instrument or portfolio of financial instruments is dependent.
 
 I've always believed that there is a better way to view what's going on behind stock options, rather than simply scrolling through lines and lines of option chains on Yahoo finance.
 
 This project aims to visualize what is happening.
 
-The plotting is configurable by Mid-Price (Average of Recent Bids) or Last-price (Last recorded Bid)
+### Details:
+The plotting is configurable by Mid-Price (Average of Recent Bids) or Last-price (Last recorded Bid).
 
 Each function uses some or all of these parameters:  
     Stock price S \,  

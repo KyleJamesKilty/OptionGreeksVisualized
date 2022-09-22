@@ -3,4 +3,4 @@ Graphs quantities representing the sensitivity of the price of options to a chan
 
 ![Output of OptionGreeksVisualized](https://github.com/KyleJamesKilty/OptionGreeksVisualized/blob/Pictures/Option%20Greeks%20Pictures/Options.png?raw=true)
 
-![Output of OptionGreeksVisualized](https://github.com/KyleJamesKilty/OptionGreeksVisualized/blob/Pictures/Option%20Greeks%20Pictures/Options.png?raw=true)
+![Output of OptionGreeksVisualized](https://github.com/KyleJamesKilty/OptionGreeksVisualized/blob/Pictures/Option%20Greeks%20Pictures/Greek_Outputs_Explanation.png?raw=true)

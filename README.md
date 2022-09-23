@@ -28,7 +28,7 @@ For more information on the parameters in these functions, please use the link t
 ## How to get this program running
 1.Download Anaconda (https://www.anaconda.com/products/distribution)  
 2.Open the Spyder development environment that comes installed with Anaconda.  
-3.Install Yfinance package. Using "pip install finance" in console.  
+3.Install Yfinance package. Using "pip install yfinance" in console.  
 4.Open the file or paste it into Spyder. Make sure it is saved with the .py extension.  
 5.Press Run.  
 

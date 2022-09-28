@@ -450,7 +450,7 @@ def returnOptions(currentDate, currentTime, ticker, optionType, priceType, inter
 
 def plotOptions(StockOptions, parameters, ticker, currentDate, currentTime):
     
-    faceColor = 'red'
+    faceColor = 'white'
     figure1 = matplotlib.pyplot.figure()
     
     titles = [x for x in parameters]
@@ -560,24 +560,4 @@ def main():
 if __name__ == '__main__':
     # Main loop
     main()
-            
-        
-    
-    
-
-             
-            
-                
-        
-        
-       
-    
-                
-        
-        
-            
-        
-    
-    
-    
-    
+           

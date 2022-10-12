@@ -504,6 +504,7 @@ def plotOptions(StockOptions, parameters, ticker, currentDate, currentTime):
                     exec("subplot{} = figure1.add_subplot({},{},{}, projection = '3d')".format(idx - 1, 4, 4, idx - 1))
                     eval("subplot{}.set_title(titles[{}])".format(idx - 1, idx - 2))
                     eval("subplot{}.set_xlabel('strike')".format(idx - 1))
+                    eval("subplot{}.view_init(0, 90)".format(idx - 1))
                 
                 for individualOption in individualStrikes:
                     sharePrice = individualOption.sharePrice
